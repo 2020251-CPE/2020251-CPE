@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @2020251
+- 👋 Hi, I’m @2020251 (Angelo Rafael F. Recio's College Account)
 - 👀 I’m interested in learning different programming languages
-- 🌱 I’m currently learning some HTML CSS and C
 - 💞️ I’m looking to collaborate on anyone honestly, hopefull we both learn from stuff.
 - 📫 How to reach me at my email: 2020251@ub.edu.ph
 <!---
